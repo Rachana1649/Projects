@@ -32,6 +32,18 @@ In today’s digital music era, understanding listening patterns is crucial for 
  * Drill Down, Drill Up, and Hierarchy
  * 
 ### Dashboard
+![Spotify Overview](https://github.com/user-attachments/assets/fc8968ed-1611-4ec0-90c6-d641271e063e)
+![Listening Patterns](https://github.com/user-attachments/assets/d03087d5-1e46-4931-b147-72299c138465)
+![Spotify details](https://github.com/user-attachments/assets/6711d272-b96b-4c47-9745-ed397e4b8f8d)
+
+### Project Insights
+* The Beatles, Past Master,Abbey Road,The wall,Revolver are the top 5 Albums Played
+* The Beatles,The Killer,John Mayer,Bob Dylan,Paul McCartney are the top 5 Artists Played.
+* Ode to the mets,In the blood,Dying breed,Caution,19 Dias y 500 are the top 5 track played.
+
+
+
+
 
 
 
