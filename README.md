@@ -20,7 +20,7 @@ In today’s digital music era, understanding listening patterns is crucial for 
 * Top 5 Albums, Artists & Tracks - Identifying the most played albums, artists & Tracks based on listening frequency.
 * Latest Year vs Previous Year Analysis - Compare album,artists & track consumption between the latest and previous years.
   
-*  Dashboard Interactions - 
+*  Dashboard Interactions -<a https://github.com/Rachana1649/Projects/blob/main/Spotify%20Analysis.pbix> View Dashboard </a>
  ### Details Grid
    In this report, we aim to analyze Spotify data by creating an interactive and dynamic Grid View. The Grid will display key details such as Album Name, Artist Name, Track Name, and other relevant attributes.
  ### Key Requirements:
